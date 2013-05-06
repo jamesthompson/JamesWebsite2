@@ -1,0 +1,77 @@
+@main {
+    
+    <body>
+
+	    <style type="text/css">
+	      body {
+	        padding-top: 80px;
+	        padding-bottom: 55px;
+	      }
+	    </style>
+
+    	<!-- TOP NAVBAR -->
+	    <div class="navbar navbar-inverse navbar-fixed-top">
+	      <div class="navbar-inner">
+	        <div class="container">
+	          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </a>
+	          <div class="nav-collapse collapse">
+	            <ul class="nav">
+	              <li class="active"><a href="#"><i class="icon-home"></i> Home</a></li>
+	              <li><a href="@routes.Application.about"><i class="icon-info-sign"></i> About</a></li>
+	              <li><a href="@routes.Application.cv"><i class="icon-briefcase"></i> CV</a></li>
+	              <li><a href="@routes.Application.contact"><i class="icon-envelope"></i> Contact</a></li>
+	              <li class="dropdown">
+	                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-plus"></i> Interests<b class="caret"></b></a>
+	                <ul class="dropdown-menu">
+					  <li><a href="@routes.Application.science"><i class="icon-beaker"></i> Science</a></li>
+	                  <li><a href="@routes.Application.computing"><i class="icon-cogs"></i> Computing</a></li>
+	                  <li><a href="@routes.Application.hobbies"><i class="icon-music"></i> Hobbies</a></li>
+	                </ul>
+	              </li>
+	            </ul>
+	          </div><!--/.nav-collapse -->
+	        </div>
+	      </div>
+	    </div>
+
+
+		<div class="jumbotron masthead">
+			<div class="container">
+			    <h1>James R. Thompson</h1>
+			    <p>Postdoctoral Research Associate at the University of Southern California</p>
+			    <p><a href="@routes.Application.contact" class="btn btn-success btn-large">Contact &raquo;</a></p>
+			</div>
+		</div>
+
+		<div class="container">
+	      <!-- Example row of columns -->
+	      	<div class="row-fluid">
+	      		<br>
+		        <div class="span6">
+		          <h2><i class="icon-beaker"></i> Science</h2>
+		          <p>I work principally on experimental and theoretical problems in membrane biology and physics. My main experimental techniques are based upon single molecule approaches. These methods have big advantages over ensemble approaches for the study of membrane processes, the proteins which reside within membranes and the interactions between them. I work at present at the <a href="http://chems.usc.edu/malmstadt/">Mork Family Dept. Chem. Eng. &amp; Mat. Sci.</a> at USC in Los Angeles, CA USA.</p>
+		          <p><a class="btn" href="@routes.Application.science">Read more &raquo;</a></p>
+		        </div>
+		        <div class="span5">
+		          <h2><i class="icon-cogs"></i> Computing</h2>
+		          <p>Computation is at the core of the experiments and theory work I routinely do in my research. I maintain interests and skills in modern networking technologies, GPGPU computing, functional programming and core computer science topics. I particularly like to work with <a href="http://www.scala-lang.org">Scala</a>, the <a href="http://www.oracle.com"><abbr title="Java Virtual Machine">JVM</abbr></a> and <a href="http://www.nvidia.com/object/cuda_home_new.html">nVidia <abbr title="Compute Unified Device Architecture">CUDA</abbr></a> GPGPU programming to assist me with my science projects.</p>
+		          <p><a class="btn" href="@routes.Application.computing">Read more &raquo;</a></p>
+		       </div>
+	      	</div>
+
+	      <hr>
+
+	      <footer>
+	        <p><small>&copy; James R. Thompson - 2012</small></p>
+	      </footer>
+
+    </div> <!-- /container -->
+    
+    </body>
+    
+    
+}

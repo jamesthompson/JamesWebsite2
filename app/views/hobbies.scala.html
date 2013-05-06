@@ -1,0 +1,94 @@
+@main {
+    
+    <body>
+
+    	<style type="text/css">
+	      body {
+	        padding-top: 30px;
+	        padding-bottom: 40px;
+	      }
+	    </style>
+
+    	<!-- TOP NAVBAR -->
+	    <div class="navbar navbar-inverse navbar-fixed-top">
+	      <div class="navbar-inner">
+	        <div class="container">
+	          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </a>
+	          <a class="brand" href="@routes.Application.index">James R. Thompson</a>
+	          <div class="nav-collapse collapse">
+	            <ul class="nav">
+	              <li><a href="@routes.Application.index"><i class="icon-home"></i> Home</a></li>
+	              <li><a href="@routes.Application.about"><i class="icon-info-sign"></i> About</a></li>
+	              <li><a href="@routes.Application.cv"><i class="icon-briefcase"></i> CV</a></li>
+	              <li><a href="@routes.Application.contact"><i class="icon-envelope"></i> Contact</a></li>
+	              <li class="dropdown">
+	                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-plus"></i> Interests<b class="caret"></b></a>
+	                <ul class="dropdown-menu">
+	                  <li><a href="@routes.Application.science"><i class="icon-beaker"></i> Science</a></li>
+	                  <li><a href="@routes.Application.computing"><i class="icon-cogs"></i> Computing</a></li>
+	                  <li class="active"><a href="#"><i class="icon-music"></i> Hobbies</a></li>
+	                </ul>
+	              </li>
+	            </ul>
+	          </div><!--/.nav-collapse -->
+	        </div>
+	      </div>
+	    </div>
+
+
+	    <!-- Subhead
+================================================== -->
+<header class="jumbotron subheadfive" id="overview">
+  <div class="container">
+    <h1><i class="icon-music"></i> Hobbies</h1>
+  </div>
+</header>
+
+		<!-- CONTAINER -->
+		<div class="container">
+			<br>
+			<br>
+			<br>
+			<h1>Music</h1>
+			<p class="lead">I enjoy playing guitar, and listening to music a lot.</p>
+			<p>I like to listen to all sorts, but mainly American music from the likes of people like Gary Clark Jr., Derek Trucks, Doyle Bramhall II and various others.</p>
+			<br>
+			<br>
+			<h1>Other stuff</h1>
+			
+			<ul class="thumbnails">
+  					<li class="span4">
+    					<a href="#" class="thumbnail">
+      						<img src="@routes.Assets.at("images/charlie.jpg")" alt="">
+   						 </a>
+  					</li>
+  					<li class="span4">
+    					<a href="#" class="thumbnail">
+      						<img src="@routes.Assets.at("images/jasper.jpg")" alt="">
+   						 </a>
+  					</li>
+  					<div class="span5">
+  					<p>I also enjoy hanging out with my friends, family and pets. Charlie the dog, and Jasper the cat.</p>
+  					<p>I like swimming, skiing, scuba diving (any sport beginning with 's' really...) and watching F1 and Rugby.</p>
+          		</div>
+
+  			</ul>
+
+	      <hr>
+
+	      <footer>
+	        <p><small>&copy; James R. Thompson - 2012</small></p>
+	      </footer>
+
+    </div> <!-- /container -->
+
+
+
+
+  	</body>  
+    
+}

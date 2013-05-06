@@ -1,0 +1,86 @@
+@main {
+    
+    <body>
+
+    	<style type="text/css">
+	      body {
+	        padding-top: 30px;
+	        padding-bottom: 40px;
+	      }
+	    </style>
+
+    	<!-- TOP NAVBAR -->
+	    <div class="navbar navbar-inverse navbar-fixed-top">
+	      <div class="navbar-inner">
+	        <div class="container">
+	          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </a>
+	          <a class="brand" href="@routes.Application.index">James R. Thompson</a>
+	          <div class="nav-collapse collapse">
+	            <ul class="nav">
+	              <li><a href="@routes.Application.index"><i class="icon-home"></i> Home</a></li>
+	              <li class="active"><a href="#about"><i class="icon-info-sign"></i> About</a></li>
+	              <li><a href="@routes.Application.cv"><i class="icon-briefcase"></i> CV</a></li>
+	              <li><a href="@routes.Application.contact"><i class="icon-envelope"></i> Contact</a></li>
+	              <li class="dropdown">
+	                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-plus"></i> Interests<b class="caret"></b></a>
+	                <ul class="dropdown-menu">
+					 <li><a href="@routes.Application.science"><i class="icon-beaker"></i> Science</a></li>
+	                  <li><a href="@routes.Application.computing"><i class="icon-cogs"></i> Computing</a></li>
+	                  <li><a href="@routes.Application.hobbies"><i class="icon-music"></i> Hobbies</a></li>
+	                </ul>
+	              </li>
+	            </ul>
+	          </div><!--/.nav-collapse -->
+	        </div>
+	      </div>
+	    </div>
+
+
+	    <!-- Subhead
+================================================== -->
+<header class="jumbotron subheadone" id="overview">
+  <div class="container">
+    <h1><i class="icon-info-sign"></i> About</h1>
+  </div>
+</header>
+
+		<!-- CONTAINER -->
+		<div class="container">
+			<br>
+			<br>
+			<br>
+			<div class="row">
+				<div class="span4">
+					<img src="@routes.Assets.at("images/James.jpg")" class="img-rounded offset1">
+				</div>
+  				<div class="span5 offset2">
+  					<h3>James R. Thompson</h3>
+  					<p>I'm a postdoc at USC in LA. I've been working in the <a href="http://chems.usc.edu/malmstadt/">Malmstadt group</a> since March 2012 on various lipid bilayer membrane imaging projects. </p>
+
+  					<p>Before USC I worked at Harvard University in the medical school's <a href="https://sysbio.med.harvard.edu">Systems Biology</a> department on a nonlinear imaging project for zebrafish genetics research. Before Harvard I worked at Oxford with <a href="http://www.markwallace.org">Dr. Mark Wallace</a> in the Physical and Theoretical Chemistry Laboratory. I also worked in close collaboration with <a href="http://bayley.chem.ox.ac.uk">Prof. Hagan Bayley's group</a> on my thesis work in the lab surrounding the assembly of the model pore-forming toxin alpha-hemolysin. </p>
+
+  					<p>Prior to my research career, I obtained my degree in Biochemistry at the <a href="http://www.york.ac.uk">University of York</a>, also in England.</p>
+
+  					<p>I'm English but I live and work here in the US. In my spare time I enjoy playing music, programming, reading, travelling and spending time with my friends, family and pets</p>
+
+  				</div>
+			</div>
+
+	      <hr>
+
+	      <footer>
+	        <p><small>&copy; James R. Thompson - 2012</small></p>
+	      </footer>
+
+    </div> <!-- /container -->
+
+
+
+
+  	</body>  
+    
+}

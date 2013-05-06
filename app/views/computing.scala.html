@@ -1,0 +1,111 @@
+@main {
+    
+    <body data-spy="scroll" data-target=".bs-docs-sidebar">
+
+    	<style type="text/css">
+	      body {
+	        padding-top: 30px;
+	        padding-bottom: 40px;
+	      }
+	    </style>
+
+    	<!-- TOP NAVBAR -->
+	    <div class="navbar navbar-inverse navbar-fixed-top">
+	      <div class="navbar-inner">
+	        <div class="container">
+	          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </a>
+	          <a class="brand" href="@routes.Application.index">James R. Thompson</a>
+	          <div class="nav-collapse collapse">
+	            <ul class="nav">
+	              <li><a href="@routes.Application.index"><i class="icon-home"></i> Home</a></li>
+	              <li><a href="@routes.Application.about"><i class="icon-info-sign"></i> About</a></li>
+	              <li><a href="@routes.Application.cv"><i class="icon-briefcase"></i> CV</a></li>
+	              <li><a href="@routes.Application.contact"><i class="icon-envelope"></i> Contact</a></li>
+	              <li class="dropdown">
+	                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-plus"></i> Interests<b class="caret"></b></a>
+	                <ul class="dropdown-menu">
+					  <li><a href="@routes.Application.science"><i class="icon-beaker"></i> Science</a></li>
+	                  <li class="active"><a href="#"><i class="icon-cogs"></i> Computing</a></li>
+	                  <li><a href="@routes.Application.hobbies"><i class="icon-music"></i> Hobbies</a></li>
+	                </ul>
+	              </li>
+	            </ul>
+	          </div><!--/.nav-collapse -->
+	        </div>
+	      </div>
+	    </div>
+
+
+	    <!-- Subhead
+================================================== -->
+<header class="jumbotron subheadfour" id="overview">
+  <div class="container">
+    <h1><i class="icon-cogs"></i> Computing</h1>
+  </div>
+</header>
+
+	<div class="container">
+
+		<div class="row">
+		
+			<div class="span9">
+				<section id="intro">
+
+	            		<h1>Introduction</h1>
+	            		<p class="lead">I mainly work on the JVM in Scala, but I enjoy using Java too (especially JavaFX). I also like making Cocoa / iOS apps and hacking GPUs with nVidia CUDA.</p>
+	          		<p>Here you'll find snippets of useful code that I'd like to share, along with movies demonstrating some of the apps I'm working on as part of my work here at USC. Please also check out my GitHub page. The link is on the ribbon in the top left.</p>
+				</section>
+
+				<section id="programming">
+	          		<div class="page-header">
+	            		<h1>Programming</h1>
+	            		<p class="lead">Some useful snippets of code I'd like to share</p>
+	          		</div>
+	          		<a href="https://github.com/jamesthompson"><img style="position: absolute; top: 25px; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png" alt="Fork me on GitHub"></a>
+	          		<h3>Linear Regression in Scala</h3>
+	          		<script src="https://gist.github.com/jamesthompson/5527138.js"></script>
+	          		<h3>Normalize a List, Seq etc.</h3>
+	          		<script src="https://gist.github.com/jamesthompson/5473476.js"></script>
+	          		<h3>Legendre Polynomials in Scala</h3>
+	          		<script src="https://gist.github.com/jamesthompson/3815164.js"></script>
+	          		<h3>Fast Fourier Transform in Scala</h3>
+	          		<script src="https://gist.github.com/3406640.js"> </script>
+	          		
+				</section>
+
+				<section id="software">
+	          		<div class="page-header">
+	            		<h1>Software</h1>
+	            		<p class="lead">Some examples of apps I'm developing for my work</p>
+	          		</div>
+	          		<iframe width="640" height="360" src="http://www.youtube.com/embed/5NDQZpNejM4" frameborder="0" allowfullscreen></iframe>
+	          		<iframe width="640" height="360" src="http://www.youtube.com/embed/2dwgb_UeEu8" frameborder="0" allowfullscreen></iframe>
+				</section>
+
+			</div>
+
+		     <div class="span3 bs-docs-sidebar">
+        		<ul class="nav nav-list bs-docs-sidenav" data-spy="affix" data-offset-top="150">
+          			<li><a href="#intro">Introduction</a></li>
+		          	<li><a href="#programming">Programming</a></li>
+		          	<li><a href="#software">Software</a></li>
+        		</ul>
+      		</div>
+
+		</div>
+
+			      <footer>
+	        <p><small>&copy; James R. Thompson - 2012</small></p>
+	      </footer>
+	</div>	
+
+
+
+
+  	</body>  
+    
+}
