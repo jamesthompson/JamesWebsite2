@@ -1,6 +1,6 @@
-2013-05-06 12:05:06,279 - [INFO] - from play in main 
-Listening for HTTP on port 9000...
+2013-05-30 11:23:37,736 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
 
-2013-05-06 12:05:24,697 - [INFO] - from play in play-akka.actor.default-dispatcher-2 
+2013-05-30 11:23:56,845 - [INFO] - from play in New I/O worker #1 
 Application started (Dev)
 
