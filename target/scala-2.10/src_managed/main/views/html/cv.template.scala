@@ -93,7 +93,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
             <h5>Thesis Title</h5>
             <p>Imaging the Assembly of the Staphylococcal Pore-Forming Toxin Alpha-Hemolysin</p>
             <h5>Supervisor</h5>
-            <p><a href="http://www.markwallace.org">Dr. Mark I. Wallace</a>. Collaborated with <a href="http://bayley.chem.ox.ac.uk">Prof. Hagan Bayley F.R.S.</a></p>
+            <p><a href="http://wallace.chem.ox.ac.uk">Dr. Mark I. Wallace</a>. Collaborated with <a href="http://bayley.chem.ox.ac.uk">Prof. Hagan Bayley F.R.S.</a></p>
             <br>
             <h3> Bachelor of Science with Honours <small>October 2002 - July 2005</small></h3>
             <h4> <a href="http://www.york.ac.uk">University of York</a>, UK</h4>
@@ -118,7 +118,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
           </div>
           <div class="well">
             <h4>British Citizen</h4>
-            <h4>US H1-B Visa Holder</h4>
+            <h4>US H-1B Visa Holder</h4>
           </div>
         </section>
 
@@ -129,18 +129,16 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
           <div class="well">
             <h4>Postdoctoral Research Associate - University of Southern California <a class="badge badge-success">March 2012 - Present</a></h4>
               <p>Fundamental biophysical research on lipid bilayer membranes.</p>
-              <p>Measuring mechanical properties of <abbr title="Giant Unilamellar Vesicles">GUVs</abbr> fluctuating unperturbed at thermal equilibrium and in external fields.</p>
-              <p>Measuring lipid phase behaviours using single-molecule imaging and single particle analysis.</p>
-              <p>Simulating GUV mechanical behaviours.</p> 
+              <p>Software development in Scala. Contributor to Spire type classes framework for numerics.</p>
             <br>
             <h4>Postdoctoral Research Fellow - Harvard University <small>August 2010 - July 2011</small></h4>
-              <p>Researched and developed a nonlinear-imaging system for the study of zebrafish development.</p>
+              <p>Researched and developed a nonlinear-imaging system for the study of animal development.</p>
               <p>Conceptualized the design and developed simulations and software.</p>
             <br>
             <h4>Postdoctoral Research Assistant - University of Oxford <small>February 2009 - July 2010</small></h4>
               <p>Sponsored by John Fell Fund for postdoctoral work in biophysics</p>
-              <p>Designed methods to handle eukaryotic membrane proteins in vitro for single molecule analysis</p>
-              <p>Researched protein and peptide pore formation</p>
+              <p>Designed methods to handle eukaryotic membrane proteins in vitro for single molecule study</p>
+              <p>Researched protein and peptide pore formation, particularly with regards to neurodegenerative peptides</p>
           </div>
         </section>
 
@@ -186,18 +184,21 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
           </div>
           <div class="well">
           <h3>Biophysical</h3>
-            <p><strong>Imaging</strong> - <a class="badge">Single-molecule</a> <a class="badge">TIRF</a> <a class="badge">Confocal</a> <a class="badge">Multi-photon imaging</a></p>
+            <p><strong>Imaging</strong> - <a class="badge">Single-molecule</a> <a class="badge">TIRF</a> <a class="badge">Confocal</a> <a class="badge">Multi-photon imaging</a> <a class="badge">3D SIM</a></p>
             <p><strong>Electrophysiology</strong> - <a class="badge">Advanced in vitro methods</a></p>
           </div>
           <div class="well">
           <h3>Computational</h3>
             <p><strong>Object oriented languages</strong> - <a class="badge">Java</a> <a class="badge">Scala</a> <a class="badge">Objective-C</a> <a class="badge">C++</a></p>
             <p><strong>Low level languages</strong> - <a class="badge">C</a> <a class="badge">nVidia CUDA</a></p>
-            <p><strong>Functional languages</strong> - <a class="badge">Scala</a> <a class="badge">Haskell</a> <a class="badge">(Lisps - Clojure)</a> <a class="badge">ScalaZ</a> </p>
+            <p><strong>Functional languages</strong> - <a class="badge">Scala</a> <a class="badge">Haskell</a> <a class="badge">(Lisps - Clojure)</a> <a class="badge"> Type-level programming</a> </p>
             <p><strong>Build Tools</strong> - <a class="badge">Simple Build Tool<a/> <a class="badge">Maven<a/> <a class="badge">gradle<a/></p>
-            <p><strong>Databases</strong> - <a class="badge">MYSQL</a> <a class="badge">JDBC</a> <a class="badge">H2</a> <a class="badge">Slick</a></p>
+
+            <p><strong>DB</strong> - <a class="badge">MYSQL</a> <a class="badge">JDBC</a> <a class="badge">H2</a> <a class="badge">Slick</a></p>
+            
+            <p><strong>Cloud technologies</strong> - <a class="badge">Heroku</a></p>
             <p><strong>Web technologies</strong> - <a class="badge">Play Framework</a> <a class="badge">Javascript</a> <a class="badge">HTML5</a> <a class="badge">CSS3</a> </p>
-            <p><strong>Productivity</strong> - <a class="badge">Microsoft</a> <a class="badge">Adobe</a> <a class="badge">Apple software</a> <a class="badge">IntelliJ</a> <a class="badge">Ensime</a> <a class="badge">Sublime Text 2</a> <a class="badge">Netbeans 7.2</a> <a class="badge">Matlab</a> <a class="badge">Igor Pro</a> <a class="badge">Excel</a></p>
+            <p><strong>Productivity</strong> - <a class="badge">Microsoft</a> <a class="badge">Adobe</a> <a class="badge">Apple software</a> <a class="badge">IntelliJ</a><a class="badge">Eclipse</a> <a class="badge">Ensime</a> <a class="badge">Sublime Text</a> <a class="badge">Matlab</a> <a class="badge">Igor Pro</a> <a class="badge">Excel</a></p>
             <p><strong>Operating Systems</strong> - <a class="badge">Mac OS X</a> <a class="badge">Linux</a> <a class="badge">MS Windows</a></p>
           </div>
         </section>
@@ -210,7 +211,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
           <ul class="thumbnails">
             <li class="span4">
               <div class="thumbnail">
-                <img src=""""),_display_(Seq[Any](/*192.28*/routes/*192.34*/.Assets.at("images/SPT.png"))),format.raw/*192.62*/("""" alt="">
+                <img src=""""),_display_(Seq[Any](/*193.28*/routes/*193.34*/.Assets.at("images/SPT.png"))),format.raw/*193.62*/("""" alt="">
                 <h3>Enhanced Stability and Fluidity in Droplet on Hydrogel Bilayers for Measuring Membrane Protein Diffusion</h3>
                 <h5>Nano Lett. 2007 (12):3875-8. Thompson, J.R. et al.</h5>
                 <p>We form artificial lipid bilayers suitable for single-molecule fluorescence microscopy by contacting an aqueous droplet with a hydrogel support immersed in a solution of lipid in oil. Our results show that droplet on hydrogel bilayers (DHBs) have high lipid mobilities, similar to those observed in unsupported lipid bilayers. DHBs are also stable over a period of several weeks. We examine membrane protein diffusion in these bilayers and report a decreased lateral mobility of the heptameric beta-barrel pore-forming toxin alpha-hemolysin versus that of its monomeric precursor. These results corroborate previous models of the alpha-hemolysin insertion mechanism where the monomer binds to the lipid bilayer without insertion.</p>
@@ -219,7 +220,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 
             <li class="span5">
               <div class="thumbnail">
-                <img src=""""),_display_(Seq[Any](/*201.28*/routes/*201.34*/.Assets.at("images/DHB.png"))),format.raw/*201.62*/("""" alt="">
+                <img src=""""),_display_(Seq[Any](/*202.28*/routes/*202.34*/.Assets.at("images/DHB.png"))),format.raw/*202.62*/("""" alt="">
                 <h3>Direct Detection of Membrane Channels from Gels Using Water-in-Oil Droplet Bilayers</h3>
                 <h5>J. Am. Chem. Soc. 2007 129(51):16042-7. Heron, A.J. et al.</h5>
                 <p>We form planar lipid bilayers between an aqueous droplet and a hydrogel support immersed in a lipid-oil solution. By scanning the bilayer over the surface of an SDS-PAGE gel, we are able to directly detect membrane proteins from gels using single-channel recording. Using this technique, we are able to examine low levels of endogenous protein from cell extracts without the need for over-expression. We also use droplet bilayers to detect small molecules from hydrogels. The bilayers show enhanced stability compared to conventional planar lipid bilayers, and both bilayer size and position can be controlled during an experiment. Hydrogel scanning with droplet bilayers provides a new method for the discovery and characterization of ion channels with the potential for high-throughput screening.</p>
@@ -228,7 +229,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 
             <li class="span4">
               <div class="thumbnail">
-                <img src=""""),_display_(Seq[Any](/*210.28*/routes/*210.34*/.Assets.at("images/Simul.png"))),format.raw/*210.64*/("""" alt="">
+                <img src=""""),_display_(Seq[Any](/*211.28*/routes/*211.34*/.Assets.at("images/Simul.png"))),format.raw/*211.64*/("""" alt="">
                 <h3>Simultaneous measurement of ionic current and fluorescence from single protein pores.</h3>
                 <h5>J. Am. Chem. Soc. 2009 131(5):1652-3. Heron, A.J. et al.</h5>
                 <p>The ability to simultaneously monitor both the ionic current and fluorescence from membrane channels and pores has the potential to link structural changes with function in such proteins. We present a new method for simultaneously measuring single-channel electrical currents and fluorescence from membrane proteins by using water-in-oil droplet bilayers. We demonstrate the simultaneous fluorescence and electrical detection of stochastic blocking by cyclodextrin in multiple staphylococcal alpha-hemolysin pores. The combined fluorescence signal from individual pores exhibits the same sequence of blocking events as the total current recording, showing that the two signals from each pore are correlated.</p>
@@ -237,7 +238,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 
             <li class="span5">
               <div class="thumbnail">
-                <img src=""""),_display_(Seq[Any](/*219.28*/routes/*219.34*/.Assets.at("images/Euk.png"))),format.raw/*219.62*/("""" alt="">
+                <img src=""""),_display_(Seq[Any](/*220.28*/routes/*220.34*/.Assets.at("images/Euk.png"))),format.raw/*220.62*/("""" alt="">
                 <h3>In Vitro Reconstitution of Eukaryotic Ion Channels Using Droplet Interface Bilayers.</h3>
                 <h5>J. Am. Chem. Soc. 2011 133(24):9370–5. Leptihn, S. et al.</h5>
                 <p>The ability to routinely study eukaryotic ion channels in a synthetic lipid environment would have a major impact on our understanding of how different lipids influence ion channel function. Here, we describe a straightforward, detergent-free method for the in vitro reconstitution of eukaryotic ion channels and ionotropic receptors into droplet interface bilayers and measure their electrical activity at both the macroscopic and single-channel level. We explore the general applicability of this method by reconstitution of channels from a wide range of sources including recombinant cell lines and native tissues, as well as preparations that are difficult to study by conventional methods including erythrocytes and mitochondria.</p>
@@ -246,7 +247,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 
             <li class="span9">
               <div class="thumbnail">
-                <img src=""""),_display_(Seq[Any](/*228.28*/routes/*228.34*/.Assets.at("images/Hemo.png"))),format.raw/*228.63*/("""" alt="">
+                <img src=""""),_display_(Seq[Any](/*229.28*/routes/*229.34*/.Assets.at("images/Hemo.png"))),format.raw/*229.63*/("""" alt="">
                 <h3>Rapid Assembly of a Multimeric Membrane Protein Pore.</h3>
                 <h5>Biophys. J. 2011 101(11):2679-83. Thompson, J.R. et al.</h5>
                 <p>We have observed the assembly of the staphylococcal pore-forming toxin α-hemolysin using single-molecule fluorescence imaging. Surprisingly, assembly from the monomer to the complete heptamer is extremely rapid, occurring in &lt;5 ms. No lower order oligomeric intermediates are detected. Monte Carlo simulation of our experiment shows that assembly is diffusion limited, and pore formation is dependent on the stability of intermediate species. There are close similarities between bacterial pore-forming toxins, such as staphylococcal α-hemolysin, the anthrax protective antigen, and the cholesterol-dependent cytolysins, and their eukaryotic analogs, such as the complement pore membrane attack complex and perforin domain. The assembly mechanism we have observed for α-hemolysin provides a simple model that aids our understanding of these important pore formers.</p>
@@ -255,7 +256,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 
             <li class="span5">
               <div class="thumbnail">
-                <img src=""""),_display_(Seq[Any](/*237.28*/routes/*237.34*/.Assets.at("images/Ala.png"))),format.raw/*237.62*/("""" alt="">
+                <img src=""""),_display_(Seq[Any](/*238.28*/routes/*238.34*/.Assets.at("images/Ala.png"))),format.raw/*238.62*/("""" alt="">
                 <h3>Imaging Multiple Conductance States in an Alamethicin Pore.</h3>
                 <h5>J. Am. Chem. Soc. 2011 133(37):14507–9. Harriss, L. et al.</h5>
                 <p>Alamethicin is the archetypal antimicrobial pore-forming peptide. Although the peptide has long been known to form pores of characteristic conductances in lipid membranes, the precise nature of these pores is not known. Simultaneous calcium-flux imaging and single-channel recording in a droplet interface bilayer allowed us to directly attribute multiple conductance states to a single point diffusing in the bilayer.</p>
@@ -264,7 +265,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 
             <li class="span4">
               <div class="thumbnail">
-                <img src=""""),_display_(Seq[Any](/*246.28*/routes/*246.34*/.Assets.at("images/Stretch.png"))),format.raw/*246.66*/("""" alt="">
+                <img src=""""),_display_(Seq[Any](/*247.28*/routes/*247.34*/.Assets.at("images/Stretch.png"))),format.raw/*247.66*/("""" alt="">
                 <h3>Optical Stretching of Giant Unilamellar Vesicles with an Integrated Dual-beam Optical Trap.</h3>
                 <h5>Biomed. Opt. Exp. 2012 3(10): 2419. Solmaz, M. et al.</h5>
                 <p>Giant Unilamellar Vesicles (GUV) are simple analogs of cellular membranes which are routinely used in studies of the basic mechanical properties of lipid bilayers. We have integrated a dual-beam optical stretcher into a microfluidic platform in order to study GUV mechanics. GUVs are trapped and stretched through the externally applied stress created by the two opposing NIR laser beams. Quasi-spherical GUVs are slightly reshaped as ellipsoids as soon as they are trapped with minimal power. Results indicate a linear elastic stretching behavior for pure phospholipid membranes upon trapping. GUV stretching upon laser power adjustment occurs on the millisecond timescale. We also demonstrate that through this approach we are able to straightforwardly evaluate physical parameters describing the lipid bilayer’s mechanical behavior in the low-tension regime.</p>
@@ -273,7 +274,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 
             <li class="span4">
               <div class="thumbnail">
-                <img src=""""),_display_(Seq[Any](/*255.28*/routes/*255.34*/.Assets.at("images/ElectrodeDevice.jpg"))),format.raw/*255.74*/("""" alt="">
+                <img src=""""),_display_(Seq[Any](/*256.28*/routes/*256.34*/.Assets.at("images/ElectrodeDevice.jpg"))),format.raw/*256.74*/("""" alt="">
                 <h3>Constructing Droplet Interface Bilayers from the Contact of Aqueous Droplets in Oil.</h3>
                 <h5>Nat. Protocols. 2013 8(6), 1048. Leptihn, S. et al.</h5>
                 <p>We describe a protocol for forming an artificial lipid bilayer by contacting nanoliter aqueous droplets in an oil solution in the presence of phospholipids. A lipid monolayer forms at each oil-water interface, and when two such monolayers touch, a bilayer is created. Droplet interface bilayers (DIBs) are a simple way to generate stable bilayers suitable for single-channel electrophysiology and optical imaging from a wide variety of preparations, ranging from purified proteins to reconstituted eukaryotic cell membrane fragments. Examples include purified proteins from the alpha-hemolysin pore from Staphylococcus aureus, the anthrax toxin pore and the 1.2-MDa mouse mechanosensitive channel MmPiezo1. Ion channels and ionotropic receptors can also be reconstituted from membrane fragments without further purification. We describe two approaches for forming DIBs. In one approach, a lipid bilayer is created between two aqueous droplets submerged in oil. In the other approach, a membrane is formed between an aqueous droplet and an agarose hydrogel, which allows imaging in addition to electrical recordings. the protocol takes less than 30 min, including droplet generation, monolayer assembly and bilayer formation. In addition to the main protocol, we also describe the preparation of Ag/AgCl electrodes and sample preparation.</p>
@@ -288,7 +289,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 
             <li class="span4">
               <div class="thumbnail">
-                <img src=""""),_display_(Seq[Any](/*270.28*/routes/*270.34*/.Assets.at("images/Hot.png"))),format.raw/*270.62*/("""" alt="">
+                <img src=""""),_display_(Seq[Any](/*271.28*/routes/*271.34*/.Assets.at("images/Hot.png"))),format.raw/*271.62*/("""" alt="">
                 <h3>Incorporation of in vitro synthesized GPCR into a tethered artificial lipid membrane system</h3>
                 <h5>Mol. Biosystems 2007 3:814–5 Thompson, J.R.</h5>
                 <p><strong>Review of:</strong> Incorporation of In Vitro Synthesized GPCR into a Tethered Artificial Lipid Membrane System, Rudolf Robelek, Eva S. Lemker, Birgit Wiltschi, Vinzenz Kirste, Renate Naumann, Dieter Oesterhelt and Eva-Kathrin Sinner, Angew. Chem., Int. Ed., 2007, 46(4), 605–608</p>
@@ -297,7 +298,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 
             <li class="span5">
               <div class="thumbnail">
-                <img src=""""),_display_(Seq[Any](/*279.28*/routes/*279.34*/.Assets.at("images/MBS.png"))),format.raw/*279.62*/("""" alt="">
+                <img src=""""),_display_(Seq[Any](/*280.28*/routes/*280.34*/.Assets.at("images/MBS.png"))),format.raw/*280.62*/("""" alt="">
                 <h3>Droplet Interface Bilayers</h3>
                 <h5>Mol. Biosystems 2008 3:814–5 Bayley, H. et al.</h5>
                 <p>Droplet interface bilayers (DIBs) provide a superior platform for the biophysical analysis of membrane proteins. The versatile DIBs can also form networks, with features that include built-in batteries and sensors.</p>
@@ -321,7 +322,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
     </div>
 
       <footer>
-          <p><small>&copy; James R. Thompson - 2012</small></p>
+          <p><small>&copy; James R. Thompson - 2013</small></p>
         </footer>
 
     </div>
@@ -347,11 +348,11 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 }
                 /*
                     -- GENERATED --
-                    DATE: Thu May 30 11:23:48 PDT 2013
+                    DATE: Mon Sep 23 16:49:37 PDT 2013
                     SOURCE: /Users/James/Desktop/JamesWebsite2/app/views/cv.scala.html
-                    HASH: 8cf687689040ac1e471036db6f753645f058ea43
-                    MATRIX: 575->1|586->5|624->7|755->111|783->112|878->181|906->182|1395->635|1410->641|1450->659|1619->792|1634->798|1674->816|1782->888|1797->894|1837->912|2041->1080|2056->1086|2098->1106|2438->1410|2453->1416|2495->1436|2612->1517|2627->1523|2671->1545|2788->1626|2803->1632|2845->1652|3319->2090|3334->2096|3383->2123|12200->10903|12216->10909|12267->10937|13409->12042|13425->12048|13476->12076|14674->13237|14690->13243|14743->13273|15850->14343|15866->14349|15917->14377|17051->15474|17067->15480|17119->15509|18354->16707|18370->16713|18421->16741|19215->17498|19231->17504|19286->17536|20550->18763|20566->18769|20629->18809|22455->20598|22471->20604|22522->20632|23202->21275|23218->21281|23269->21309
-                    LINES: 22->1|22->1|22->1|27->6|27->6|30->9|30->9|42->21|42->21|42->21|45->24|45->24|45->24|46->25|46->25|46->25|48->27|48->27|48->27|52->31|52->31|52->31|53->32|53->32|53->32|54->33|54->33|54->33|68->47|68->47|68->47|213->192|213->192|213->192|222->201|222->201|222->201|231->210|231->210|231->210|240->219|240->219|240->219|249->228|249->228|249->228|258->237|258->237|258->237|267->246|267->246|267->246|276->255|276->255|276->255|291->270|291->270|291->270|300->279|300->279|300->279
+                    HASH: f678c0ab530d4618aac0c4387847e9b66fd9ef11
+                    MATRIX: 575->1|586->5|624->7|755->111|783->112|878->181|906->182|1395->635|1410->641|1450->659|1619->792|1634->798|1674->816|1782->888|1797->894|1837->912|2041->1080|2056->1086|2098->1106|2438->1410|2453->1416|2495->1436|2612->1517|2627->1523|2671->1545|2788->1626|2803->1632|2845->1652|3319->2090|3334->2096|3383->2123|12138->10841|12154->10847|12205->10875|13347->11980|13363->11986|13414->12014|14612->13175|14628->13181|14681->13211|15788->14281|15804->14287|15855->14315|16989->15412|17005->15418|17057->15447|18292->16645|18308->16651|18359->16679|19153->17436|19169->17442|19224->17474|20488->18701|20504->18707|20567->18747|22393->20536|22409->20542|22460->20570|23140->21213|23156->21219|23207->21247
+                    LINES: 22->1|22->1|22->1|27->6|27->6|30->9|30->9|42->21|42->21|42->21|45->24|45->24|45->24|46->25|46->25|46->25|48->27|48->27|48->27|52->31|52->31|52->31|53->32|53->32|53->32|54->33|54->33|54->33|68->47|68->47|68->47|214->193|214->193|214->193|223->202|223->202|223->202|232->211|232->211|232->211|241->220|241->220|241->220|250->229|250->229|250->229|259->238|259->238|259->238|268->247|268->247|268->247|277->256|277->256|277->256|292->271|292->271|292->271|301->280|301->280|301->280
                     -- GENERATED --
                 */
             

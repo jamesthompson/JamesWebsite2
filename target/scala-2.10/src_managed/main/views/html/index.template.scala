@@ -63,31 +63,31 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 		<div class="jumbotron masthead">
 			<div class="container">
 			    <h1>James R. Thompson</h1>
-			    <p>Postdoctoral Research Associate at the University of Southern California</p>
-			    <p><a href=""""),_display_(Seq[Any](/*46.21*/routes/*46.27*/.Application.contact)),format.raw/*46.47*/("""" class="btn btn-success btn-large">Contact &raquo;</a></p>
+			    <p><a href=""""),_display_(Seq[Any](/*45.21*/routes/*45.27*/.Application.contact)),format.raw/*45.47*/("""" class="btn btn-primary btn-small">Contact &raquo;</a></p>
 			</div>
 		</div>
 
 		<div class="container">
 	      <!-- Example row of columns -->
 	      	<div class="row-fluid">
-	      		<br>
+	      		<br>		        
+	      		<div class="span5">
+		          <h2><i class="icon-cogs"></i> Computing</h2>
+		          <p>Software development is at the core of the experiments and theory work I routinely do in my research. In addition programming and understanding the inner workings of statically-typed languages are my passion. I maintain interests and skills in functional programming and associated frameworks and patterns as well as GPGPU computing. I particularly like to work with <a href="http://www.scala-lang.org">Scala</a>, the general <a href="http://www.oracle.com"><abbr title="Java Virtual Machine">JVM</abbr></a> ecosystem and <a href="http://www.nvidia.com/object/cuda_home_new.html">nVidia <abbr title="Compute Unified Device Architecture">CUDA</abbr></a></p>
+		          <p><a class="btn" href=""""),_display_(Seq[Any](/*56.38*/routes/*56.44*/.Application.computing)),format.raw/*56.66*/("""">Read more &raquo;</a></p>
+		       </div>
 		        <div class="span6">
 		          <h2><i class="icon-beaker"></i> Science</h2>
-		          <p>I work principally on experimental and theoretical problems in membrane biology and physics. My main experimental techniques are based upon single molecule approaches. These methods have big advantages over ensemble approaches for the study of membrane processes, the proteins which reside within membranes and the interactions between them. I work at present at the <a href="http://chems.usc.edu/malmstadt/">Mork Family Dept. Chem. Eng. &amp; Mat. Sci.</a> at USC in Los Angeles, CA USA.</p>
-		          <p><a class="btn" href=""""),_display_(Seq[Any](/*57.38*/routes/*57.44*/.Application.science)),format.raw/*57.64*/("""">Read more &raquo;</a></p>
+		          <p>My previous work has revolved around experimental and theoretical problems in membrane biology and physics. My main experimental work was based upon single molecule approaches. These methods have many big advantages over ensemble approaches. I work at present at the <a href="http://chems.usc.edu/malmstadt/">Mork Family Dept. Chem. Eng. &amp; Mat. Sci.</a> at USC in Los Angeles, CA USA.</p>
+		          <p><a class="btn" href=""""),_display_(Seq[Any](/*61.38*/routes/*61.44*/.Application.science)),format.raw/*61.64*/("""">Read more &raquo;</a></p>
 		        </div>
-		        <div class="span5">
-		          <h2><i class="icon-cogs"></i> Computing</h2>
-		          <p>Computation is at the core of the experiments and theory work I routinely do in my research. I maintain interests and skills in modern networking technologies, GPGPU computing, functional programming and core computer science topics. I particularly like to work with <a href="http://www.scala-lang.org">Scala</a>, the <a href="http://www.oracle.com"><abbr title="Java Virtual Machine">JVM</abbr></a> and <a href="http://www.nvidia.com/object/cuda_home_new.html">nVidia <abbr title="Compute Unified Device Architecture">CUDA</abbr></a> GPGPU programming to assist me with my science projects.</p>
-		          <p><a class="btn" href=""""),_display_(Seq[Any](/*62.38*/routes/*62.44*/.Application.computing)),format.raw/*62.66*/("""">Read more &raquo;</a></p>
-		       </div>
+
 	      	</div>
 
 	      <hr>
 
 	      <footer>
-	        <p><small>&copy; James R. Thompson - 2012</small></p>
+	        <p><small>&copy; James R. Thompson - 2013</small></p>
 	      </footer>
 
     </div> <!-- /container -->
@@ -107,11 +107,11 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 }
                 /*
                     -- GENERATED --
-                    DATE: Thu May 30 11:23:48 PDT 2013
+                    DATE: Mon Sep 23 16:31:53 PDT 2013
                     SOURCE: /Users/James/Desktop/JamesWebsite2/app/views/index.scala.html
-                    HASH: 3080839d75b5d6f0b1a159fee67c2eb6cf8d6d84
-                    MATRIX: 578->1|589->5|627->7|713->66|741->67|834->134|861->135|1492->730|1507->736|1547->754|1660->831|1675->837|1712->852|1822->926|1837->932|1879->952|2203->1240|2218->1246|2260->1266|2376->1346|2391->1352|2435->1374|2551->1454|2566->1460|2608->1480|3040->1876|3055->1882|3097->1902|3956->2725|3971->2731|4013->2751|4829->3531|4844->3537|4888->3559
-                    LINES: 22->1|22->1|22->1|27->6|27->6|30->9|30->9|45->24|45->24|45->24|46->25|46->25|46->25|47->26|47->26|47->26|51->30|51->30|51->30|52->31|52->31|52->31|53->32|53->32|53->32|67->46|67->46|67->46|78->57|78->57|78->57|83->62|83->62|83->62
+                    HASH: 24171e5f01bd507585c08cc07a7479df47a8909f
+                    MATRIX: 578->1|589->5|627->7|713->66|741->67|834->134|861->135|1492->730|1507->736|1547->754|1660->831|1675->837|1712->852|1822->926|1837->932|1879->952|2203->1240|2218->1246|2260->1266|2376->1346|2391->1352|2435->1374|2551->1454|2566->1460|2608->1480|2953->1789|2968->1795|3010->1815|4042->2811|4057->2817|4101->2839|4713->3415|4728->3421|4770->3441
+                    LINES: 22->1|22->1|22->1|27->6|27->6|30->9|30->9|45->24|45->24|45->24|46->25|46->25|46->25|47->26|47->26|47->26|51->30|51->30|51->30|52->31|52->31|52->31|53->32|53->32|53->32|66->45|66->45|66->45|77->56|77->56|77->56|82->61|82->61|82->61
                     -- GENERATED --
                 */
             

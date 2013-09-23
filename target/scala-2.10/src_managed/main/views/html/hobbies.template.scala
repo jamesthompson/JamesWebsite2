@@ -93,7 +93,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
    						 </a>
   					</li>
   					<div class="span5">
-  					<p>I also enjoy hanging out with my friends, family and pets. Charlie the dog, and Jasper the cat.</p>
+  					<p>I also enjoy hanging out with my friends, wife Liz and pets. Charlie the dog, and Jasper the cat.</p>
   					<p>I like swimming, skiing, scuba diving (any sport beginning with 's' really...) and watching F1 and Rugby.</p>
           		</div>
 
@@ -102,7 +102,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 	      <hr>
 
 	      <footer>
-	        <p><small>&copy; James R. Thompson - 2012</small></p>
+	        <p><small>&copy; James R. Thompson - 2013</small></p>
 	      </footer>
 
     </div> <!-- /container -->
@@ -125,10 +125,10 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 }
                 /*
                     -- GENERATED --
-                    DATE: Thu May 30 11:23:48 PDT 2013
+                    DATE: Mon Sep 23 16:54:19 PDT 2013
                     SOURCE: /Users/James/Desktop/JamesWebsite2/app/views/hobbies.scala.html
-                    HASH: 00521f1e501878d1de66956d652a007c44c1f8c3
-                    MATRIX: 580->1|591->5|629->7|715->66|743->67|836->134|863->135|1337->573|1352->579|1392->597|1558->727|1573->733|1613->751|1720->822|1735->828|1775->846|1888->923|1903->929|1940->944|2050->1018|2065->1024|2107->1044|2443->1344|2458->1350|2500->1370|2616->1450|2631->1456|2675->1478|3710->2477|3725->2483|3779->2515|3942->2642|3957->2648|4010->2679|4532->3170
+                    HASH: 6afcf73c55ef75ac48103bb300d0bc9c54c2db94
+                    MATRIX: 580->1|591->5|629->7|715->66|743->67|836->134|863->135|1337->573|1352->579|1392->597|1558->727|1573->733|1613->751|1720->822|1735->828|1775->846|1888->923|1903->929|1940->944|2050->1018|2065->1024|2107->1044|2443->1344|2458->1350|2500->1370|2616->1450|2631->1456|2675->1478|3710->2477|3725->2483|3779->2515|3942->2642|3957->2648|4010->2679|4534->3172
                     LINES: 22->1|22->1|22->1|27->6|27->6|30->9|30->9|42->21|42->21|42->21|45->24|45->24|45->24|46->25|46->25|46->25|47->26|47->26|47->26|48->27|48->27|48->27|52->31|52->31|52->31|53->32|53->32|53->32|87->66|87->66|87->66|92->71|92->71|92->71|115->94
                     -- GENERATED --
                 */

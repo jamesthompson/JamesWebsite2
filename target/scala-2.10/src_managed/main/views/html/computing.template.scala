@@ -77,8 +77,8 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 				<section id="intro">
 
 	            		<h1>Introduction</h1>
-	            		<p class="lead">I mainly work on the JVM in Scala, but I enjoy using Java too (especially JavaFX). I also like making Cocoa / iOS apps and hacking GPUs with nVidia CUDA.</p>
-	          		<p>Here you'll find snippets of useful code that I'd like to share, along with movies demonstrating some of the apps I'm working on as part of my work here at USC. Please also check out my GitHub page. The link is on the ribbon in the top left.</p>
+	            		<p class="lead">I mainly work on the JVM in Scala, but I enjoy using Java too (especially JavaFX). I contribute to the <a href="https://github.com/non/spire">Spire</a> project for numeric type-classes in Scala. I also like making Cocoa / iOS apps and hacking GPUs with nVidia CUDA.</p>
+	          		<p>Here you'll find snippets of useful code that I'd like to share, along with movies demonstrating some of the apps I'm working on as part of my work here at USC. Please also check out my GitHub page.</p>
 				</section>
 
 				<section id="programming">
@@ -89,8 +89,6 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 	          		<a href="https://github.com/jamesthompson"><img style="position: absolute; top: 25px; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png" alt="Fork me on GitHub"></a>
 	          		<h3>Linear Regression in Scala</h3>
 	          		<script src="https://gist.github.com/jamesthompson/5527138.js"></script>
-	          		<h3>Normalize a List, Seq etc.</h3>
-	          		<script src="https://gist.github.com/jamesthompson/5473476.js"></script>
 	          		<h3>Legendre Polynomials in Scala</h3>
 	          		<script src="https://gist.github.com/jamesthompson/3815164.js"></script>
 	          		<h3>Fast Fourier Transform in Scala</h3>
@@ -105,6 +103,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 	          		</div>
 	          		<iframe width="640" height="360" src="http://www.youtube.com/embed/5NDQZpNejM4" frameborder="0" allowfullscreen></iframe>
 	          		<iframe width="640" height="360" src="http://www.youtube.com/embed/2dwgb_UeEu8" frameborder="0" allowfullscreen></iframe>
+	          		<iframe width="640" height="360" src="http://www.youtube.com/embed/zxhjkJlhqfI" frameborder="0" allowfullscreen></iframe>
 				</section>
 
 			</div>
@@ -120,7 +119,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 		</div>
 
 			      <footer>
-	        <p><small>&copy; James R. Thompson - 2012</small></p>
+	        <p><small>&copy; James R. Thompson - 2013</small></p>
 	      </footer>
 	</div>	
 
@@ -129,7 +128,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 
   	</body>  
     
-""")))})),format.raw/*111.2*/("""
+""")))})),format.raw/*110.2*/("""
 """))}
     }
     
@@ -142,11 +141,11 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 }
                 /*
                     -- GENERATED --
-                    DATE: Thu May 30 11:23:47 PDT 2013
+                    DATE: Mon Sep 23 16:53:31 PDT 2013
                     SOURCE: /Users/James/Desktop/JamesWebsite2/app/views/computing.scala.html
-                    HASH: 70b9c7d8c4aaf1a656417b7ac60e796cc9baaf07
-                    MATRIX: 582->1|593->5|631->7|766->115|794->116|887->183|914->184|1388->622|1403->628|1443->646|1609->776|1624->782|1664->800|1771->871|1786->877|1826->895|1939->972|1954->978|1991->993|2101->1067|2116->1073|2158->1093|2482->1381|2497->1387|2539->1407|2750->1582|2765->1588|2807->1608|5831->4600
-                    LINES: 22->1|22->1|22->1|27->6|27->6|30->9|30->9|42->21|42->21|42->21|45->24|45->24|45->24|46->25|46->25|46->25|47->26|47->26|47->26|48->27|48->27|48->27|52->31|52->31|52->31|54->33|54->33|54->33|132->111
+                    HASH: 78753a090c633d65865f008d498c9492b61bae34
+                    MATRIX: 582->1|593->5|631->7|766->115|794->116|887->183|914->184|1388->622|1403->628|1443->646|1609->776|1624->782|1664->800|1771->871|1786->877|1826->895|1939->972|1954->978|1991->993|2101->1067|2116->1073|2158->1093|2482->1381|2497->1387|2539->1407|2750->1582|2765->1588|2807->1608|5900->4669
+                    LINES: 22->1|22->1|22->1|27->6|27->6|30->9|30->9|42->21|42->21|42->21|45->24|45->24|45->24|46->25|46->25|46->25|47->26|47->26|47->26|48->27|48->27|48->27|52->31|52->31|52->31|54->33|54->33|54->33|131->110
                     -- GENERATED --
                 */
             

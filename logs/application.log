@@ -1,6 +1,75 @@
-2013-05-30 11:23:37,736 - [INFO] - from play in main 
+2013-09-23 16:10:22,469 - [INFO] - from play in main 
 Listening for HTTP on /0:0:0:0:0:0:0:0:9000
 
-2013-05-30 11:23:56,845 - [INFO] - from play in New I/O worker #1 
+2013-09-23 16:10:38,644 - [INFO] - from play in New I/O worker #1 
+Application started (Dev)
+
+2013-09-23 16:12:47,714 - [INFO] - from play in New I/O worker #7 
+Application started (Dev)
+
+2013-09-23 16:13:45,828 - [INFO] - from play in New I/O worker #7 
+Application started (Dev)
+
+2013-09-23 16:14:57,200 - [INFO] - from play in New I/O worker #4 
+Application started (Dev)
+
+2013-09-23 16:15:20,860 - [INFO] - from play in New I/O worker #4 
+Application started (Dev)
+
+2013-09-23 16:18:29,221 - [INFO] - from play in New I/O worker #1 
+Application started (Dev)
+
+2013-09-23 16:19:19,689 - [INFO] - from play in New I/O worker #1 
+Application started (Dev)
+
+2013-09-23 16:20:04,472 - [INFO] - from play in New I/O worker #6 
+Application started (Dev)
+
+2013-09-23 16:20:59,905 - [INFO] - from play in New I/O worker #6 
+Application started (Dev)
+
+2013-09-23 16:24:30,103 - [INFO] - from play in New I/O worker #3 
+Application started (Dev)
+
+2013-09-23 16:27:44,245 - [INFO] - from play in New I/O worker #8 
+Application started (Dev)
+
+2013-09-23 16:28:28,702 - [INFO] - from play in New I/O worker #8 
+Application started (Dev)
+
+2013-09-23 16:31:54,394 - [INFO] - from play in New I/O worker #5 
+Application started (Dev)
+
+2013-09-23 16:32:15,525 - [INFO] - from play in New I/O worker #5 
+Application started (Dev)
+
+2013-09-23 16:35:45,498 - [INFO] - from play in New I/O worker #3 
+Application started (Dev)
+
+2013-09-23 16:39:13,449 - [INFO] - from play in New I/O worker #2 
+Application started (Dev)
+
+2013-09-23 16:39:51,421 - [INFO] - from play in New I/O worker #2 
+Application started (Dev)
+
+2013-09-23 16:43:14,526 - [INFO] - from play in New I/O worker #8 
+Application started (Dev)
+
+2013-09-23 16:45:39,917 - [INFO] - from play in New I/O worker #6 
+Application started (Dev)
+
+2013-09-23 16:48:47,203 - [INFO] - from play in New I/O worker #4 
+Application started (Dev)
+
+2013-09-23 16:49:38,255 - [INFO] - from play in New I/O worker #4 
+Application started (Dev)
+
+2013-09-23 16:52:10,024 - [INFO] - from play in New I/O worker #2 
+Application started (Dev)
+
+2013-09-23 16:53:32,418 - [INFO] - from play in New I/O worker #7 
+Application started (Dev)
+
+2013-09-23 16:54:20,637 - [INFO] - from play in New I/O worker #7 
 Application started (Dev)
 

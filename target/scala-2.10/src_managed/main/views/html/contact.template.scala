@@ -91,8 +91,8 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 				</address>
 				<br>
 				<br>
-				<a href="mailto:jamesrth&#64;usc.edu" class="btn btn-success btn-small"><i class="icon-envelope"></i> Email</a>
-				<a href="http://twitter.com/drjamesthompson/" class="btn btn-primary btn-small"><i class="icon-twitter"></i> Twitter</a>
+				<a href="mailto:jamesrthompson&#64;icloud.com" class="btn btn-success btn-small"><i class="icon-envelope"></i> Email</a>
+				<a href="http://twitter.com/james_rth/" class="btn btn-primary btn-small"><i class="icon-twitter"></i> Twitter</a>
 		    </div>
 		    <div class="span4">
 					<iframe width="600" height="500" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hedco+Chemical+Engineering,+HED,+Los+Angeles,+CA&amp;aq=1&amp;oq=HEDCO+&amp;sll=37.269174,-119.306607&amp;sspn=9.000704,19.335937&amp;ie=UTF8&amp;hq=&amp;hnear=Hedco+Chemical+Engineering,+HED,+Los+Angeles,+California+90089&amp;t=m&amp;ll=34.020315,-118.288293&amp;spn=0.006225,0.00912&amp;z=16&amp;output=embed"></iframe>
@@ -123,9 +123,9 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 }
                 /*
                     -- GENERATED --
-                    DATE: Thu May 30 11:23:47 PDT 2013
+                    DATE: Mon Sep 23 16:24:28 PDT 2013
                     SOURCE: /Users/James/Desktop/JamesWebsite2/app/views/contact.scala.html
-                    HASH: e4524e37de0bdeb8a5e6a5957bee1ac5f3a28edb
+                    HASH: c766c2979f78e0d42c5f9c78af7b5e198ad7241d
                     MATRIX: 580->1|591->5|629->7|715->66|743->67|836->134|863->135|1337->573|1352->579|1392->597|1558->727|1573->733|1613->751|1720->822|1735->828|1775->846|1888->923|1903->929|1940->944|2360->1328|2375->1334|2417->1354|2533->1434|2548->1440|2592->1462|2708->1542|2723->1548|2765->1568
                     LINES: 22->1|22->1|22->1|27->6|27->6|30->9|30->9|42->21|42->21|42->21|45->24|45->24|45->24|46->25|46->25|46->25|47->26|47->26|47->26|52->31|52->31|52->31|53->32|53->32|53->32|54->33|54->33|54->33
                     -- GENERATED --

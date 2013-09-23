@@ -79,14 +79,14 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 					<img src=""""),_display_(Seq[Any](/*58.17*/routes/*58.23*/.Assets.at("images/James.jpg"))),format.raw/*58.53*/("""" class="img-rounded offset1">
 				</div>
   				<div class="span5 offset2">
-  					<h3>James R. Thompson</h3>
-  					<p>I'm a postdoc at USC in LA. I've been working in the <a href="http://chems.usc.edu/malmstadt/">Malmstadt group</a> since March 2012 on various lipid bilayer membrane imaging projects. </p>
+  					<h3>James R. Thompson, D.Phil</h3>
+  					<p>I'm a postdoctoral research scientist at USC in LA. I've been working at USC since March 2012 on various lipid bilayer physics projects.</p>
 
-  					<p>Before USC I worked at Harvard University in the medical school's <a href="https://sysbio.med.harvard.edu">Systems Biology</a> department on a nonlinear imaging project for zebrafish genetics research. Before Harvard I worked at Oxford with <a href="http://www.markwallace.org">Dr. Mark Wallace</a> in the Physical and Theoretical Chemistry Laboratory. I also worked in close collaboration with <a href="http://bayley.chem.ox.ac.uk">Prof. Hagan Bayley's group</a> on my thesis work in the lab surrounding the assembly of the model pore-forming toxin alpha-hemolysin. </p>
+  					<p>Before USC I worked at Harvard University in the medical school's <a href="https://sysbio.med.harvard.edu">Systems Biology</a> department on a nonlinear-imaging project for genetics research. Before Harvard I worked at Oxford with <a href="http://wallace.chem.ox.ac.uk/">Dr. Mark Wallace</a> in the Physical and Theoretical Chemistry Laboratory. I also worked in close collaboration with <a href="http://bayley.chem.ox.ac.uk">Prof. Hagan Bayley's group</a> on my thesis work in the lab surrounding the assembly of the model pore-forming toxin alpha-hemolysin. </p>
 
   					<p>Prior to my research career, I obtained my degree in Biochemistry at the <a href="http://www.york.ac.uk">University of York</a>, also in England.</p>
 
-  					<p>I'm English but I live and work here in the US. In my spare time I enjoy playing music, programming, reading, travelling and spending time with my friends, family and pets</p>
+  					<p>I'm English but I live and work here in the US. In my spare time I enjoy playing music, programming, reading, photography, travelling and spending time with my friends, wife Liz and pet cat Jasper.</p>
 
   				</div>
 			</div>
@@ -94,7 +94,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 	      <hr>
 
 	      <footer>
-	        <p><small>&copy; James R. Thompson - 2012</small></p>
+	        <p><small>&copy; James R. Thompson - 2013</small></p>
 	      </footer>
 
     </div> <!-- /container -->
@@ -117,10 +117,10 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 }
                 /*
                     -- GENERATED --
-                    DATE: Thu May 30 11:23:47 PDT 2013
+                    DATE: Mon Sep 23 16:35:43 PDT 2013
                     SOURCE: /Users/James/Desktop/JamesWebsite2/app/views/about.scala.html
-                    HASH: b330f02c403cf397a623180a2ca0bff10991e243
-                    MATRIX: 578->1|589->5|627->7|713->66|741->67|834->134|861->135|1335->573|1350->579|1390->597|1556->727|1571->733|1611->751|1815->919|1830->925|1867->940|1977->1014|1992->1020|2034->1040|2357->1327|2372->1333|2414->1353|2530->1433|2545->1439|2589->1461|2705->1541|2720->1547|2762->1567|3344->2113|3359->2119|3411->2149|4871->3578
+                    HASH: c22abbbbb89fbee6c973cf2a227df74930ec5396
+                    MATRIX: 578->1|589->5|627->7|713->66|741->67|834->134|861->135|1335->573|1350->579|1390->597|1556->727|1571->733|1611->751|1815->919|1830->925|1867->940|1977->1014|1992->1020|2034->1040|2357->1327|2372->1333|2414->1353|2530->1433|2545->1439|2589->1461|2705->1541|2720->1547|2762->1567|3344->2113|3359->2119|3411->2149|4850->3557
                     LINES: 22->1|22->1|22->1|27->6|27->6|30->9|30->9|42->21|42->21|42->21|45->24|45->24|45->24|47->26|47->26|47->26|48->27|48->27|48->27|52->31|52->31|52->31|53->32|53->32|53->32|54->33|54->33|54->33|79->58|79->58|79->58|107->86
                     -- GENERATED --
                 */
